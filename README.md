@@ -3,6 +3,7 @@
 Code and extra material from the DS learning perceptron presentation
 
 Supplimentary notes for the slides are in /Perceptron
+
 Demo is in /Amazon Reviews
 
 Slides can be viewed from:
